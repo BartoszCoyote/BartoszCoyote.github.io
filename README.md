@@ -1,1 +1,0 @@
-# BartoszCoyote.github.io
