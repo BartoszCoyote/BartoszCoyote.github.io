@@ -1,0 +1,5 @@
+# Security contact for bjedynak.com (RFC 9116)
+Contact: mailto:contact@bjedynak.com
+Expires: 2027-09-14T00:00:00.000Z
+Preferred-Languages: en, pl
+Canonical: https://bjedynak.com/.well-known/security.txt
